@@ -1,1 +1,1 @@
-from kube-apiserver-amd64:v1.6.2
+from  gcr.io/google_containers/kube-apiserver-amd64:v1.6.2
